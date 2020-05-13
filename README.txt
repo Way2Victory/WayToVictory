@@ -11,7 +11,7 @@
 
 【CC许可】
 知识共享许可协议
-WOT 胜利之路 由 灵云幻梦 采用 知识共享 署名 4.0 国际 （https://creativecommons.org/licenses/by/4.0/）许可协议进行许可。
+WOT 胜利之路 由 灵云幻梦 采用 知识共享 署名 4.0 国际 （ https://creativecommons.org/licenses/by/4.0/ ）许可协议进行许可。
 基于github.com/Way2Victory/WayToVictory上的作品创作。
 
 
